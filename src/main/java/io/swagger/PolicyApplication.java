@@ -1,6 +1,6 @@
 /*
 gcloud auth application-default login
-gcloud auth login --cred-file="C:\Users\gep_service 
+gcloud auth login --cred-file="/Users/shixiaotong/Desktop/side_projects/gcp_service_account/key.json" 
 gcloud config set project etl-elt
 gcloud auth list
 */
