@@ -1,0 +1,8 @@
+io/swagger/configuration/ModelMapperConfig.class
+io/swagger/entity/PolicyDetail.class
+io/swagger/controller/PolicyController.class
+io/swagger/service/PolicyDetailService.class
+io/swagger/PolicyApplication.class
+io/swagger/dto/Policy.class
+io/swagger/configuration/ConfigPropertiesPrinter.class
+io/swagger/dao/PolicyRepository.class
