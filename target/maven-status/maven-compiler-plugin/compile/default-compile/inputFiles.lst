@@ -3,6 +3,6 @@
 /Users/shixiaotong/Desktop/side_projects/policy-api/src/main/java/io/swagger/PolicyApplication.java
 /Users/shixiaotong/Desktop/side_projects/policy-api/src/main/java/io/swagger/dao/PolicyRepository.java
 /Users/shixiaotong/Desktop/side_projects/policy-api/src/main/java/io/swagger/dto/Policy.java
-/Users/shixiaotong/Desktop/side_projects/policy-api/src/main/java/io/swagger/configuration/ConfigPropertiesPrinter.java
+/Users/shixiaotong/Desktop/side_projects/policy-api/src/main/java/io/swagger/configuration/WebConfig.java
 /Users/shixiaotong/Desktop/side_projects/policy-api/src/main/java/io/swagger/configuration/ModelMapperConfig.java
 /Users/shixiaotong/Desktop/side_projects/policy-api/src/main/java/io/swagger/service/PolicyDetailService.java
