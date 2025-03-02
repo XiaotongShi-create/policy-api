@@ -1,5 +1,6 @@
 io/swagger/configuration/ModelMapperConfig.class
 io/swagger/entity/PolicyDetail.class
+io/swagger/controller/TestController.class
 io/swagger/controller/PolicyController.class
 io/swagger/service/PolicyDetailService.class
 io/swagger/PolicyApplication.class
